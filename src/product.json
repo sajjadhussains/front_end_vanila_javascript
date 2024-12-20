@@ -1,0 +1,22 @@
+{
+  "image": [
+    "./images/image1.jpg",
+    "./images/image2.jpg",
+    "./images/image3.jpg",
+    "./images/image4.jpg"
+  ],
+  "title": "Stylish Smartwatch",
+  "reviews_number": 124,
+  "previous_price": 199.99,
+  "present_price": 149.99,
+  "description": "This stylish smartwatch combines elegant design with advanced features, including fitness tracking, heart rate monitoring, and customizable watch faces.",
+  "type": "Smartwatch",
+  "model_number": "SW-2024",
+  "brand_color": ["Black", "Silver", "Gold", "Rose Gold"],
+  "wrist_size": [
+    { "size": "S", "price": 69 },
+    { "size": "M", "price": 79 },
+    { "size": "L", "price": 89 },
+    { "size": "XL", "price": 99 }
+  ]
+}

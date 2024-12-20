@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+/* Custom classes for each color */
+.outline-color-816BFF {
+  outline: 2px solid #816bff;
+  outline-offset: 2px;
+}
+
+.outline-color-1FCEC9 {
+  outline: 2px solid #1fcec9;
+  outline-offset: 2px;
+}
+
+.outline-color-4B97D3 {
+  outline: 2px solid #4b97d3;
+  outline-offset: 2px;
+}
+
+.outline-color-3B4747 {
+  outline: 2px solid #3b4747;
+  outline-offset: 2px;
+}
+.wrist-border-color {
+  border: 1px solid #6576ff;
+}
+.wrist-space-y {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.wrist-text-active {
+  color: #6576ff;
+}
+.checkout-btn {
+  border-radius: 20px;
+  box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.1);
+  margin-top: 90px;
+  margin-bottom: 30px;
+}
+.mini-box {
+  padding: 2px, 6px, 2px, 6px;
+}
+#checkout-button-section {
+  display: none;
+}
